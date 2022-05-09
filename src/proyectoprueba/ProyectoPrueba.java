@@ -17,8 +17,6 @@ public class ProyectoPrueba {
     public static void main(String[] args) {
         // TODO code application logic here
         //Nuevo
-        //12314
-        //7894
     }
     
 }
